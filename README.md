@@ -1,6 +1,7 @@
 # Register-Form
 
-🎰 **HEY,What are you waiting for,start the game ??**
+🎰 **Hello, why are you thinking? Use my registration form for your site right now
+**
 
 ![preview1](https://user-images.githubusercontent.com/109727844/190802806-bea0c6ae-7216-46d0-a901-d6376cc01e19.jpg)
 
